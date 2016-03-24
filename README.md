@@ -24,7 +24,7 @@ CMD bundle exec rails s -p $PORT
 
 ### Specifying a Ruby version
 
-Your project must specify a local Ruby version via the `.ruby-version` file, which should be placed in the same directory as your project's `Dockerfile`. The contents of the file are simply the desired Ruby version, i.e. `2.2.0`.
+Your project must specify a local Ruby version via the `.ruby-version` file, which should be placed in the same directory as your project's `Dockerfile`. The contents of the file are simply the desired Ruby version, i.e. `2.3.0`.
 
 ### Why, though?
 
